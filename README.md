@@ -68,4 +68,4 @@ I sprinkled some CSS magic to style the QR code component:
 
 ## About Me
 
-I'm [Your Name](https://www.your-site.com), and I had a blast working on this project. Feel free to connect with me on [Frontend Mentor](https://www.frontendmentor.io/profile/yourusername) or catch up with me on Twitter [@yourusername](https://www.twitter.com/yourusername). Let's chat about coding and web development!
+I'm [Joseph Ejiro](https://joecodes.netlify.app), and I had a blast working on this project. Feel free to connect with me on [Frontend Mentor](https://www.frontendmentor.io/profile/Thebigjoe10) or catch up with me on Twitter [@JosephSR14](https://twitter.com/JosephSR14). Let's chat about coding and web development!
