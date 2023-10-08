@@ -24,7 +24,7 @@ Let me give you a quick tour! This project is all about a QR code component that
 ## Links
 
 - [Check out the Solution](https://github.com/Thebigjoe10/qr-component.git)
-- [Explore the Live Site](https://your-live-site-url.com)
+- [Explore the Live Site](https://qr-component-frontendmentor1.netlify.app/)
 
 ## My Development Journey
 
